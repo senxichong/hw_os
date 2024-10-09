@@ -284,4 +284,4 @@ int main(){
 
 }
 ```
-结果如下：![alt text](images/image-16.png)
+结果如下：![alt text](images/image_16.png)
