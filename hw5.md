@@ -28,4 +28,4 @@ index++;
 ```C
 
 ```
-结果如图：![alt text](image-12.png)
+结果如图：![alt text](images/image-12.png)
